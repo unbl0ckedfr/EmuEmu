@@ -8,6 +8,6 @@ We are fixing this issue by making proxies games and more. Our websites will hav
 <br>
   Q. How do I get roms?
     <br>A. Go to [this](https://drive.google.com/drive/folders/1VxjINYMDvvUSRKA_k2aJqq6JzmRQCI1s) google drive folder. The team does not own this drive.
-<br>  
+<br><br>  
   Q. What game consoles are there?
     <br>A. Some of the most notable are, GBA, GB, GBC, N64, NES, and more!
